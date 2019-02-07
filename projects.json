@@ -62,5 +62,13 @@
         "year": "2018_WS",
 	    "info": "Shooting and fleeing",
         "status": 0
+    },
+	{
+        "title": "DEAD",
+        "folder": "DEAD WebGL",
+        "author": "Adrian Haiser",
+        "year": "2018_WS",
+	    "info": "Don't die.",
+        "status": 0
     }
 ]
