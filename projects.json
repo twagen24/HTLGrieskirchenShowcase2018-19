@@ -46,5 +46,13 @@
         "year": "2018_WS",
 	    "info": "Jump n Run game",
         "status": 0
+    },
+    {
+        "title": "Jump-And-Whip",
+        "folder": "jump-and-whip",
+        "author": "Moritz Stingl",
+        "year": "2018_WS",
+	    "info": "Jumping and Whipping",
+        "status": 0
     }
 ]
