@@ -103,5 +103,13 @@
 	 "year": "2018_WS",
 	 "info": "Jump and Run",
 	 "status": 0
+	 },
+	 {
+	 "title": "DeadOps2",
+	 "folder": "DeadOps2WebGL",
+	 "author": "Patrick Gabriel",
+	 "year": "2018_WS",
+	 "info": "Zombie Shooter",
+	 "status": -1
 	 }
 ]
