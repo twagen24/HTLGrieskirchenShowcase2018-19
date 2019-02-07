@@ -78,5 +78,13 @@
         "year": "2018_WS",
 	    "info": "Turn-based Rougelike Dungeoncrawler",
         "status": 0
-    }
+    },
+	 {
+	 "title": "AdventureGame",
+	 "folder": "AdventureGame",
+	 "author": "Constanze Lampl",
+	 "year": "2018_WS",
+	 "info": "Adventure Game",
+	 "status": 0
+	 }
 ]
