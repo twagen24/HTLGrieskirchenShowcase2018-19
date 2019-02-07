@@ -38,5 +38,13 @@
         "year": "2018_WS",
 	    "info": "",
         "status": 1
+    },
+    {
+        "title": "Jump n Run",
+        "folder": "Jump_n_Run",
+        "author": "Marco Lehner",
+        "year": "2018_WS",
+	    "info": "Jump n Run game",
+        "status": 0
     }
 ]
