@@ -6,5 +6,13 @@
         "year": "2018_WS",
 	    "info": "",
         "status": 0
+    },
+    {
+        "title": "isometric-game",
+        "folder": "isometric-game",
+        "author": "Michael Briedl",
+        "year": "2018_WS",
+	    "info": "The game includes ADVANCED mechanics and there are no tutorials so good luck",
+        "status": 1
     }
 ]
