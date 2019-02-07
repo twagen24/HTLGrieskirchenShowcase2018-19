@@ -55,12 +55,12 @@
 	    "info": "Jumping and Whipping",
         "status": 0
     },
-	{
+    {
         "title": "ShootingGame",
         "folder": "ShootingGame",
         "author": "Lukas Kaisermayr",
         "year": "2018_WS",
-	    "info": "Jumping and Whipping",
+	    "info": "Shooting and fleeing",
         "status": 0
     }
 ]
