@@ -54,5 +54,13 @@
         "year": "2018_WS",
 	    "info": "Jumping and Whipping",
         "status": 0
+    },
+    {
+        "title": "Racing Game 2D Web",
+        "folder": "Racing Game 2D Web",
+        "author": "Jonas Siegesleitner",
+        "year": "2018_WS",
+	    "info": "Racing Game 2D",
+        "status": 0
     }
 ]
